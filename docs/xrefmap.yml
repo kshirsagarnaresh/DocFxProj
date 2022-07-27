@@ -1,0 +1,28 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: DocFXExample
+  name: DocFXExample
+  href: api/DocFXExample.html
+  commentId: N:DocFXExample
+  fullName: DocFXExample
+  nameWithType: DocFXExample
+- uid: DocFXExample.Example
+  name: Example
+  href: api/DocFXExample.Example.html
+  commentId: T:DocFXExample.Example
+  fullName: DocFXExample.Example
+  nameWithType: Example
+- uid: DocFXExample.Example.Divide12(System.Int32,System.Int32)
+  name: Divide12(Int32, Int32)
+  href: api/DocFXExample.Example.html#DocFXExample_Example_Divide12_System_Int32_System_Int32_
+  commentId: M:DocFXExample.Example.Divide12(System.Int32,System.Int32)
+  fullName: DocFXExample.Example.Divide12(System.Int32, System.Int32)
+  nameWithType: Example.Divide12(Int32, Int32)
+- uid: DocFXExample.Example.Divide12*
+  name: Divide12
+  href: api/DocFXExample.Example.html#DocFXExample_Example_Divide12_
+  commentId: Overload:DocFXExample.Example.Divide12
+  isSpec: "True"
+  fullName: DocFXExample.Example.Divide12
+  nameWithType: Example.Divide12
